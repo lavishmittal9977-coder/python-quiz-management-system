@@ -84,19 +84,23 @@ python main.py
 
 ### 🔑 Login
 
-(Add Screenshot Here)
+![Login](login.png)
 
 ### 📝 Quiz
 
-(Add Screenshot Here)
+![Quiz](quiz.png)
 
 ### 📊 Result
 
-(Add Screenshot Here)
+![Result](quiz-result.png)
 
 ### 📧 Email Received
 
-(Add Screenshot Here)
+![Email](email_output.png)
+
+### 💻 Main Program
+
+![Main](main.png)
 
 ---
 
