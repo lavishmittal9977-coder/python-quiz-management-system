@@ -1,0 +1,22 @@
+users={
+    "lovish":{
+        "password":"lovish@123",
+        "email":"lavishmittal9977@gmail.com"
+    },
+    "shubham":{
+        "password":"shubham@123",
+        "email":"shubhampatil4468992@gmail.com"
+    },
+    "rohit":{
+        "password":"rohit@123",
+        "email":"rohit123@gmail.com"
+    },
+    "piyush":{
+        "password":"piyush@123",
+        "email":"piyush123@gmail.com"
+    },
+    "rohan":{
+        "password":"rohan@123",
+        "email":"rohan@gmail.com"
+    }
+}
