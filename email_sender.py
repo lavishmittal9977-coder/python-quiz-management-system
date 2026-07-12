@@ -4,8 +4,8 @@ from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 
 def email_sender(user_name,receiver_email,score,subject,total,status):
-    sender_email="lovishmittal34@gmail.com"
-    app_password="ypkp nbsy yqvq ivze"
+    sender_email=""
+    app_password=""
     recieve_email=receiver_email
     email_subject="Your Quiz Result"
     body=f"""
